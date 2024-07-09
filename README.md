@@ -9,7 +9,8 @@ If you find this repository useful, please consider citing our [paper](https://d
 
 # RQnet for IVIM-DKI
 ### Registration
-
+![Motion_DWIs](https://github.com/Wonil521/RQnet/assets/59683100/ea72a123-2765-45a5-ad5a-8369788148e4)
+![results_DWIs](https://github.com/Wonil521/RQnet/assets/59683100/624132f2-5d80-41f4-b61a-0ca97a7604aa)
 
 ### Quantification
 
