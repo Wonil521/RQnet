@@ -3,8 +3,8 @@
   <h2>RQ-Net for IVIM-DKI quantification (MRM 2023)</h2>
 </div>
 
-We provide the training and test code along with the trained weights and the demo dataset used for RQnet.
-Our paper was published at Magnetic Resonance in Medicine.
+We provide the training and test code along with the trained weights and the demo dataset used for RQnet. <br>
+Our paper was published at Magnetic Resonance in Medicine. <br>
 If you find this repository useful, please consider citing our [paper](https://doi.org/10.1002/mrm.29454).
 
 # RQnet for IVIM-DKI
