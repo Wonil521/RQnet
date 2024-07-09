@@ -11,7 +11,18 @@ If you find this repository useful, please consider citing our [paper](https://d
 
 **Reference**:  
 > Wonil Lee, Giyong Choi, Jongyeon Lee, Hyunwook Park. Registration and quantification network (RQnet) for IVIM‐DKI analysis in MRI. Magnetic Resonance in Medicine. 2023 Jan;89(1):250-61.
-
+```BibTeX
+@article{lee2023registration,
+  title={Registration and quantification network (RQnet) for IVIM-DKI analysis in MRI},
+  author={Lee, Wonil and Choi, Giyong and Lee, Jongyeon and Park, HyunWook},
+  journal={Magnetic Resonance in Medicine},
+  volume={89},
+  number={1},
+  pages={250--261},
+  year={2023},
+  publisher={Wiley Online Library}
+}
+```
 ### Requirements
 Our code is implemented using Pytorch.
 The code was tested under the following setting:  
