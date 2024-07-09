@@ -11,11 +11,11 @@ If you find this repository useful, please consider citing our [paper](https://d
 ### Registration
 
 <img src="https://github.com/Wonil521/RQnet/assets/59683100/ea72a123-2765-45a5-ad5a-8369788148e4" width="25%" height="25%">*DWIs w/ motion*
-<img src="https://github.com/Wonil521/RQnet/assets/59683100/624132f2-5d80-41f4-b61a-0ca97a7604aa" width="25%" height="25%">*Results of RQnet*
+<img src="https://github.com/Wonil521/RQnet/assets/59683100/624132f2-5d80-41f4-b61a-0ca97a7604aa" width="25%" height="25%">*Results of DWI registration using RQnet*
 
 
 ### Quantification
-<img src="https://github.com/Wonil521/RQnet/assets/59683100/4b49cff6-20d8-455d-bf82-f1bfb908c50c" width="50%" height="50%">
+<img src="https://github.com/Wonil521/RQnet/assets/59683100/4b49cff6-20d8-455d-bf82-f1bfb908c50c" width="50%" height="50%">*Results of IVIM-DKI quantification using RQnet*
 
 **Reference**:  
 > Wonil Lee, Giyong Choi, Jongyeon Lee, Hyunwook Park. Registration and quantification network (RQnet) for IVIM‐DKI analysis in MRI. Magnetic Resonance in Medicine. 2023 Jan;89(1):250-61.
