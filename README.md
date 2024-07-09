@@ -38,6 +38,7 @@ The code was tested under the following setting:
 2. Python
 ```bash
 $ pip install -r requirements.txt
+$ python data_gen_digital_phantom.py #for DWI generation
 $ python Train_and_Test.py
 ```
 
