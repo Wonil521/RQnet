@@ -1,21 +1,22 @@
 <div align="center">
-  
   <h2>RQ-Net for IVIM-DKI quantification (MRM 2023)</h2>
 </div>
 
-We provide the training and test code along with the trained weights and the demo dataset used for RQnet. <br>
+We provide the training and test code along with the trained weights and the demo dataset used for RQnet (Registration and Quantification network). <br>
 Our paper was published at Magnetic Resonance in Medicine. <br>
 If you find this repository useful, please consider citing our [paper](https://doi.org/10.1002/mrm.29454).
 
 # RQnet for IVIM-DKI
-### Registration
+<div align="center">
+  
+### 1. Registration results
+<img src="https://github.com/Wonil521/RQnet/assets/59683100/ea72a123-2765-45a5-ad5a-8369788148e4" width="25%" height="25%"> <br> DWIs w/ motion <br>
+<img src="https://github.com/Wonil521/RQnet/assets/59683100/624132f2-5d80-41f4-b61a-0ca97a7604aa" width="25%" height="25%"> <br> Results of DWI registration using RQnet
 
-<img src="https://github.com/Wonil521/RQnet/assets/59683100/ea72a123-2765-45a5-ad5a-8369788148e4" width="25%" height="25%">*DWIs w/ motion*
-<img src="https://github.com/Wonil521/RQnet/assets/59683100/624132f2-5d80-41f4-b61a-0ca97a7604aa" width="25%" height="25%">*Results of DWI registration using RQnet*
 
-
-### Quantification
-<img src="https://github.com/Wonil521/RQnet/assets/59683100/4b49cff6-20d8-455d-bf82-f1bfb908c50c" width="50%" height="50%">*Results of IVIM-DKI quantification using RQnet*
+### 2. Quantification results
+<img src="https://github.com/Wonil521/RQnet/assets/59683100/4b49cff6-20d8-455d-bf82-f1bfb908c50c" width="75%" height="75%"> <br> Results of IVIM-DKI quantification using RQnet 
+</div>
 
 **Reference**:  
 > Wonil Lee, Giyong Choi, Jongyeon Lee, Hyunwook Park. Registration and quantification network (RQnet) for IVIM‐DKI analysis in MRI. Magnetic Resonance in Medicine. 2023 Jan;89(1):250-61.
